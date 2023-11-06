@@ -12,5 +12,5 @@
 [<img align="left" alt="Eren Kahyaoglu | Mail" width="22px" src="https://cdn-icons-png.flaticon.com/128/3178/3178158.png" />][mail]
 
 
-[mail]: erenfkahyaoglu@hotmail.com
+[mail]: mailto:erenfkahyaoglu@hotmail.com
 [linkedin]: https://www.linkedin.com/in/erenfarukkahyaoglu/
