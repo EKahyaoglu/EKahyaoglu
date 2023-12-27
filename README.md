@@ -4,8 +4,10 @@
 <h2>👨‍💻 Some of My Projects:</h2>
 
 - <b>Python</b>
-  - [Discord Bot with Discord.py Library](https://github.com/EKahyaoglu/discord-rngbot)
+  - [Discord Bot using Discord.py](https://github.com/EKahyaoglu/discord-rngbot)
 
+- <b>Java</b>
+  - [Prototype Backgammon Interface](https://github.com/EKahyaoglu/protoype-backgammon))
 <h2> 👥 Connect with me:</h2>
 
 [<img align="left" alt="Eren Kahyaoglu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -13,4 +15,4 @@
 
 
 [mail]: mailto:erenfkahyaoglu@hotmail.com
-[linkedin]: https://www.linkedin.com/in/erenfarukkahyaoglu/
+[linkedin]: https://www.linkedin.com/in/eren-kahyaoglu
