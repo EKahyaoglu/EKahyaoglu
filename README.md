@@ -1,13 +1,12 @@
 <h1>Hi, I'm Eren! 👋 
-<br/><a>Student</a>, <a">IT Consultant</a>, <a>Aspiring Cybersecurity Analyst</a></h1>
+<br/><a>Student</a>, <a">IT Consultant</a>, <a>Cybersecurity Team Leader</a></h1>
 
 <h2>👨‍💻 Some of My Projects:</h2>
 
-- <b>Python</b>
-  - [Discord Bot using Discord.py](https://github.com/EKahyaoglu/discord-rngbot)
+  - [(Python) Discord Bot using Discord.py](https://github.com/EKahyaoglu/ProcessScheduler)
+  - [(C++) Process Scheduler](https://github.com/EKahyaoglu/discord-rngbot)
+  - [(Java) Prototype Backgammon Interface](https://github.com/EKahyaoglu/protoype-backgammon)
 
-- <b>Java</b>
-  - [Prototype Backgammon Interface](https://github.com/EKahyaoglu/protoype-backgammon)
 <h2> 👥 Connect with me:</h2>
 
 [<img align="left" alt="Eren Kahyaoglu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
