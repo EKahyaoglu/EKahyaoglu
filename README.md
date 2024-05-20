@@ -6,6 +6,7 @@
   - [(Python) Discord Bot using Discord.py](https://github.com/EKahyaoglu/discord-rngbot)
   - [(C++) Process Scheduler](https://github.com/EKahyaoglu/ProcessScheduler)
   - [(Java) Prototype Backgammon Interface](https://github.com/EKahyaoglu/protoype-backgammon)
+  - [(TypeScript) Boba Tea Finder Web Application](https://github.com/mainoahmuna/findboba)
 
 <h2> 👥 Connect with me:</h2>
 
