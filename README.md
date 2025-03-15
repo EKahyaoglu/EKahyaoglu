@@ -8,6 +8,7 @@
   - [(Java) Prototype Backgammon Interface](https://github.com/EKahyaoglu/protoype-backgammon)
   - [(TypeScript) Boba Tea Finder Web Application](https://github.com/EKahyaoglu/Bobadise)
   - [(Kotlin) Rock Paper Scissors Game](https://github.com/EKahyaoglu/Rock-Paper-Scissors)
+  - [(Kotlin) Color Wheel View](https://github.com/EKahyaoglu/Color-Wheel-View)
 
 <h2> 👥 Connect with me!</h2>
 
