@@ -1,5 +1,5 @@
 <h1>Hi, I'm Eren! 👋 
-<br/><a>Student</a>, <a">IT Consultant</a>, <a>Cybersecurity Team Leader</a></h1>
+<br/><a>Student</a>, <a">IT Consultant</a>, <a>Cybersecurity Tech Fellow</a></h1>
 
 <h2>👨‍💻 Some of My Projects</h2>
 
@@ -11,9 +11,10 @@
 
 <h2> 👥 Connect with me!</h2>
 
-[<img align="left" alt="Eren Kahyaoglu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Eren Kahyaoglu | Mail" width="22px" src="https://cdn-icons-png.flaticon.com/128/3178/3178158.png" />][mail]
-
+[<img align="left" alt="Eren Kahyaoglu | LinkedIn" width="50px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
+[<img align="left" alt="Eren Kahyaoglu | Mail" width="52px" src="https://img.icons8.com/?size=100&id=3AYCSzCO85Qw&format=png&color=000000" />][mail]
 
 [mail]: mailto:erenfkahyaoglu@hotmail.com
 [linkedin]: https://www.linkedin.com/in/eren-kahyaoglu
+
+
