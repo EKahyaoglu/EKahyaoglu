@@ -4,6 +4,7 @@
 <h2>👨‍💻 Some of My Projects</h2>
 
   - [(Python) Discord Bot using Discord.py](https://github.com/EKahyaoglu/discord-rngbot)
+  - [(Python) Command Line Interface](https://github.com/EKahyaoglu/CommandLineInterface)
   - [(C++) Process Scheduler](https://github.com/EKahyaoglu/ProcessScheduler)
   - [(Java) Prototype Backgammon Interface](https://github.com/EKahyaoglu/protoype-backgammon)
   - [(TypeScript) Boba Tea Finder Web Application](https://github.com/EKahyaoglu/Bobadise)
