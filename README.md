@@ -3,11 +3,12 @@
 
 <h2>👨‍💻 Some of My Projects</h2>
 
-  - [(Python) Discord Bot using Discord.py](https://github.com/EKahyaoglu/discord-rngbot)
+  - [(Python) SecuPatch Patch Compliance Dashboard](https://github.com/EKahyaoglu/SecuPatch)
+  - [(TypeScript) Boba Tea Finder Web Application](https://github.com/EKahyaoglu/Bobadise)
   - [(Python) Command Line Interface](https://github.com/EKahyaoglu/CommandLineInterface)
+  - [(Python) Discord Bot using Discord.py](https://github.com/EKahyaoglu/discord-rngbot)
   - [(C++) Process Scheduler](https://github.com/EKahyaoglu/ProcessScheduler)
   - [(Java) Prototype Backgammon Interface](https://github.com/EKahyaoglu/protoype-backgammon)
-  - [(TypeScript) Boba Tea Finder Web Application](https://github.com/EKahyaoglu/Bobadise)
   - [(Kotlin) Rock Paper Scissors Game](https://github.com/EKahyaoglu/Rock-Paper-Scissors)
   - [(Kotlin) Color Wheel View](https://github.com/EKahyaoglu/Color-Wheel-View)
 
