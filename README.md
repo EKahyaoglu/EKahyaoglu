@@ -6,6 +6,7 @@
   - [(Python) SecuPatch Patch Compliance Dashboard](https://github.com/EKahyaoglu/SecuPatch)
   - [(TypeScript) Boba Tea Finder Web Application](https://github.com/EKahyaoglu/Bobadise)
   - [(Python) Command Line Interface](https://github.com/EKahyaoglu/CommandLineInterface)
+  - [(Java) Telephony App](https://github.com/EKahyaoglu/Telephony)
   - [(Python) Discord Bot using Discord.py](https://github.com/EKahyaoglu/discord-rngbot)
   - [(C++) Process Scheduler](https://github.com/EKahyaoglu/ProcessScheduler)
   - [(Java) Prototype Backgammon Interface](https://github.com/EKahyaoglu/protoype-backgammon)
