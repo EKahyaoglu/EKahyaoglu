@@ -3,6 +3,7 @@
 
 <h2>👨‍💻 Some of My Projects</h2>
 
+  - [(Python) SmartStock AI Stock Analyzer](https://github.com/EKahyaoglu/SmartStock)
   - [(Python) SecuPatch Patch Compliance Dashboard](https://github.com/EKahyaoglu/SecuPatch)
   - [(TypeScript) Boba Tea Finder Web Application](https://github.com/EKahyaoglu/Bobadise)
   - [(Python) Command Line Interface](https://github.com/EKahyaoglu/CommandLineInterface)
