@@ -1,5 +1,5 @@
 <h1>Hi, I'm Eren! 👋 
-<br/><a>SWE Intern @ Wells Fargo</a>, <a>IT Team Lead</a></h1>
+<br/><a>SWE Intern @ Wells Fargo</a> | <a>IT Team Lead</a></h1>
 
 <h2>👨‍💻 Some of My Projects</h2>
 
